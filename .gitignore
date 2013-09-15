@@ -1,0 +1,8 @@
+/Release/
+/Debug/
+/ipch/
+
+Tutorial04_2010.opensdf
+Tutorial04_2010.sdf
+*.sdf
+*.suo
